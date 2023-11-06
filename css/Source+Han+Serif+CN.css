@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'Source Han Serif CN';
+  src: url('https://woff2.pages.dev/SourceHanSerifCN-Heavy.woff2') format('woff2');
+  font-weight: 900;
+  /* Heavy */
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Han Serif CN';
+  src: url('https://woff2.pages.dev/SourceHanSerifCN-Bold.woff2') format('woff2');
+  font-weight: 700;
+  /* Bold */
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Han Serif CN';
+  src: url('https://woff2.pages.dev/SourceHanSerifCN-Medium.woff2') format('woff2');
+  font-weight: 500;
+  /* Medium */
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Han Serif CN';
+  src: url('https://woff2.pages.dev/SourceHanSerifCN-Regular.woff2') format('woff2');
+  font-weight: 400;
+  /* Regular */
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Han Serif CN';
+  src: url('https://woff2.pages.dev/SourceHanSerifCN-Light.woff2') format('woff2');
+  font-weight: 300;
+  /* Light */
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Han Serif CN';
+  src: url('https://woff2.pages.dev/SourceHanSerifCN-ExtraLight.woff2') format('woff2');
+  font-weight: 200;
+  /* Extra Light */
+  font-style: normal;
+  font-display: swap;
+}
